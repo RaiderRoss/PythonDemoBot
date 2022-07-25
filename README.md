@@ -60,11 +60,8 @@ TOKEN = 'TOKEN'
 # This sets the variable TOKEN with your token
 
 ```
-» Next we will add the event listeners This will be used to listen for events.
-```python
 
-```
-» To create the events go back to your main class and replace the code with this.
+» Next we will create the events.
 ```python
 import discord
 
